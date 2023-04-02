@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "id": 2,
+      "name": "Jainal",
+      "email": "jainal@gmail.com",
+      "phone": "+628-213-xxxxx"
+    },
+    {
+      "name": "Tiara",
+      "email": "tiara@gmail.com",
+      "phone": "+621-888-XXXXXXXX",
+      "id": 3
+    },
+    {
+      "name": "indah",
+      "email": "indah@gamil.com",
+      "phone": "082122xxxxxxx",
+      "id": 4
+    }
+  ]
+}
